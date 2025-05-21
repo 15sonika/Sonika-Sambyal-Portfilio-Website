@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://jigarsable.netlify.app/](https://682d88269b5f810cb2ab64c8--stunning-praline-ac2a23.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
